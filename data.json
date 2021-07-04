@@ -1,8 +1,18 @@
 {
   "Prometheus Proptery Management": {
     "url": "/",
-  }
+    "img": "/",
+  },
+  "The Coffee Grounds": {
+    "url": "/",
+    "img": "/",
+  },
+  "Kana Quiz": {
+    "url": "/",
+    "img": "/",
+  },
   "Tally Craft": {
-    "url":"/",
-  }
+    "url": "/",
+    "img": "/",
+  },
 }
