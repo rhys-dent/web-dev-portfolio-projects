@@ -1,18 +1,37 @@
-{
-  "Prometheus Proptery Management": {
-    "url": "/",
-    "img": "/",
-  },
-  "The Coffee Grounds": {
-    "url": "/",
-    "img": "/",
-  },
-  "Kana Quiz": {
-    "url": "/",
-    "img": "/",
-  },
-  "Tally Craft": {
-    "url": "/",
-    "img": "/",
-  },
-}
+[
+	{
+		"url": "http://prometheuspm.com/",
+		"src": "prometheus-property-management.jpg",
+		"description": "A brochure website developed during my practicum to help promote my employer's property management to potential clients. ",
+		"technologies": ["ReactJS", "Amplify (Amazon Web Service)"]
+	},
+	{
+		"url": "https://thecoffeegrounds.rhysdentportfolio.ca/",
+		"src": "thecoffeegrounds.jpg",
+		"description": "A single page website for a fictional Cafe",
+		"technologies": [
+			"Vanilla Javascript",
+			"Amazon CloudFront",
+			"Amazon S3",
+			"Amazon Certificate Manager"
+		]
+	},
+	{
+		"url": "https://master.dojb0il0pmvkq.amplifyapp.com/",
+		"src": "kanaquiz.jpg",
+		"description": "A simple web application intended to help to users memorize the Japanese alphabet. Both hiragana and katana.",
+		"technologies": ["ReactJS", "Amplify (Amazon Web Service)"]
+	},
+
+	{
+		"url": "https://tallycraft.rhysdentportfolio.ca/",
+		"src": "tallycraft.jpg",
+		"description": "A single page website created to share my mother's crafting hobby.",
+		"technologies": [
+			"Vanilla Javascript",
+			"Amazon CloudFront",
+			"Amazon S3",
+			"Amazon Certificate Manager"
+		]
+	}
+]
