@@ -1,5 +1,8 @@
 {
+  "Prometheus Proptery Management": {
+    "url": "/",
+  }
   "Tally Craft": {
-    "url":"/"
+    "url":"/",
   }
 }
