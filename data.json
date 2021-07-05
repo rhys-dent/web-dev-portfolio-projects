@@ -2,7 +2,7 @@
 	{
 		"url": "http://prometheuspm.com/",
 		"src": "prometheus-property-management.jpg",
-		"description": "A brochure website developed during my practicum to help promote my employer's property management to potential clients. ",
+		"description": "A brochure website developed during my practicum to help promote my employer's property management company to potential clients. ",
 		"technologies": ["ReactJS", "Amplify (Amazon Web Service)"]
 	},
 	{
