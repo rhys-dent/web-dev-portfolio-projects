@@ -1,11 +1,13 @@
 [
 	{
+		"title": "Promethus Property Management",
 		"url": "http://prometheuspm.com/",
 		"src": "prometheus-property-management.jpg",
 		"description": "A brochure website developed during my practicum to help promote my employer's property management company to potential clients. ",
 		"technologies": ["ReactJS", "Amplify (Amazon Web Service)"]
 	},
 	{
+		"title": "the Coffee Grounds",
 		"url": "https://thecoffeegrounds.rhysdentportfolio.ca/",
 		"src": "thecoffeegrounds.jpg",
 		"description": "A single page website for a fictional Cafe",
@@ -17,6 +19,7 @@
 		]
 	},
 	{
+		"title": "Kana Quiz",
 		"url": "https://master.dojb0il0pmvkq.amplifyapp.com/",
 		"src": "kanaquiz.jpg",
 		"description": "A simple web application intended to help to users memorize the Japanese alphabet. Both hiragana and katana.",
@@ -24,6 +27,7 @@
 	},
 
 	{
+		"title": "Tallycraft",
 		"url": "https://tallycraft.rhysdentportfolio.ca/",
 		"src": "tallycraft.jpg",
 		"description": "A single page website created to share my mother's crafting hobby.",
