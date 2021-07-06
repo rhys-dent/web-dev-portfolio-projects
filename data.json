@@ -37,5 +37,12 @@
 			"Amazon S3",
 			"Amazon Certificate Manager"
 		]
+	},
+	{
+		"title": "3D Broswer Game (Work in Progress)",
+		"url": "http://godotbrowsergame.s3-website-us-west-2.amazonaws.com/",
+		"src": "kanaquiz.jpg",
+		"description": "A simple web application intended to help to users memorize the Japanese alphabet. Both hiragana and katana.",
+		"technologies": ["ReactJS", "Amplify (Amazon Web Service)"]
 	}
 ]
