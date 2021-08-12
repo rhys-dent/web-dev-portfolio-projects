@@ -23,7 +23,7 @@
 		"title": "Pathfinding Algorithm (Breadth First Search)",
 		"url": "http://path-finding-algorithm.s3-website-us-west-2.amazonaws.com/",
 		"src": "pathfindingalgorithm.jpg",
-		"description": "A RESTful API that allows for CRUD operations on a user database. The API is an express app hosted by Heroku and the database is hosted by MongoDB Atlas.",
+		"description": "",
 		"technologies": ["Javascript"]
 	},
 	{
