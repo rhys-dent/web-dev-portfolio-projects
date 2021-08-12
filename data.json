@@ -18,6 +18,14 @@
 			"Amazon Certificate Manager"
 		]
 	},
+	
+	{
+		"title": "Pathfinding Algorithm (Spread Breadth Search)",
+		"url": "http://path-finding-algorithm.s3-website-us-west-2.amazonaws.com/",
+		"src": "pathfindingalgorithm.jpg",
+		"description": "A RESTful API that allows for CRUD operations on a user database. The API is an express app hosted by Heroku and the database is hosted by MongoDB Atlas.",
+		"technologies": ["Javascript"]
+	},
 	{
 		"title": "User Database",
 		"url": "https://express-user-database.herokuapp.com/",
