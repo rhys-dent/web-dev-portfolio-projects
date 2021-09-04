@@ -20,6 +20,7 @@
 	},
 	{
 		"title": "Falling Voxels",
+		"category": "other",
 		"url": "http://falling-voxels.s3-website-us-west-2.amazonaws.com/",
 		"src": "fallingvoxels.jpg",
 		"description": "Simple game demo where the player adds and remove voxels. Any voxels that are free floating will tumble to the ground.",
