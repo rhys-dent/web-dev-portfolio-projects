@@ -28,6 +28,7 @@
 	},
 	{
 		"title": "Pathfinding Algorithm (Breadth First Search)",
+		"category": "other",
 		"url": "http://path-finding-algorithm.s3-website-us-west-2.amazonaws.com/",
 		"src": "pathfindingalgorithm.jpg",
 		"description": "",
@@ -62,6 +63,7 @@
 	},
 	{
 		"title": "3D Multiplayer Browser Game (Work in Progress)",
+		"category": "other",
 		"url": "http://godotbrowsergame.s3-website-us-west-2.amazonaws.com/",
 		"src": "BrowserGame.jpg",
 		"description": "A small game that connects to a persistent dedicated server hosted in the cloud. Player progress will be automaticall saved.",
