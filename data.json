@@ -1,5 +1,18 @@
 [
 	{
+		"title": "Connect to AWS RDS using Node.js",
+		"category": "tutorial",
+		"url": "https://thecoffeegrounds.rhysdentportfolio.ca/",
+		"src": "thecoffeegrounds.jpg",
+		"description": "A single page website for a fictional Cafe",
+		"technologies": [
+			"Vanilla Javascript",
+			"Amazon CloudFront",
+			"Amazon S3",
+			"Amazon Certificate Manager"
+		]
+	},
+	{
 		"title": "Promethus Property Management",
 		"url": "http://prometheuspm.com/",
 		"src": "prometheus-property-management.jpg",
