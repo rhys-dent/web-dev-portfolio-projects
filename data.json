@@ -1,16 +1,5 @@
 [
 	{
-		"title": "Connect to AWS RDS using Node.js",
-		"category": "tutorials",
-		"url": "https://www.youtube.com/watch?v=6Nt-Jl3CzxE",
-		"src": "nodejs-rds-connection-tut.jpg",
-		"description": "Video tutorial demonstrating how to create a MySQL database hosted on Amazon RDS and connecting to that database from a Node.js and Express.js server.",
-		"technologies": [
-			"Amazon RDS",
-			"Node.js"
-		]
-	},
-	{
 		"title": "Promethus Property Management",
 		"url": "http://prometheuspm.com/",
 		"src": "prometheus-property-management.jpg",
