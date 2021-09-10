@@ -2,14 +2,12 @@
 	{
 		"title": "Connect to AWS RDS using Node.js",
 		"category": "tutorials",
-		"url": "https://thecoffeegrounds.rhysdentportfolio.ca/",
-		"src": "thecoffeegrounds.jpg",
-		"description": "A single page website for a fictional Cafe",
+		"url": "https://www.youtube.com/watch?v=6Nt-Jl3CzxE",
+		"src": "nodejs-rds-connection-tut.jpg",
+		"description": "Video tutorial demonstrating how to create a MySQL database hosted on Amazon RDS and connecting to that database from a Node.js and Express.js server.",
 		"technologies": [
-			"Vanilla Javascript",
-			"Amazon CloudFront",
-			"Amazon S3",
-			"Amazon Certificate Manager"
+			"Amazon RDS",
+			"Node.js",
 		]
 	},
 	{
@@ -52,7 +50,7 @@
 		"url": "https://express-user-database.herokuapp.com/",
 		"src": "userdatabase.jpg",
 		"description": "A RESTful API that allows for CRUD operations on a user database. The API is an express app hosted by Heroku and the database is hosted by MongoDB Atlas.",
-		"technologies": ["Express", "MongoDB", "Node"]
+		"technologies": ["Express", "MongoDB", "Node.js"]
 	},
 	{
 		"title": "Kana Quiz",
