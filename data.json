@@ -7,6 +7,13 @@
 		"technologies": ["ReactJS", "Amplify (Amazon Web Service)"]
 	},
 	{
+		"title": "Promethus Property Management",
+		"url": "http://prometheuspm.com/",
+		"src": "prometheus-property-management.jpg",
+		"description": "A brochure website developed during my practicum to help promote my employer's property management company to potential clients. ",
+		"technologies": ["ReactJS", "Amplify (Amazon Web Service)"]
+	},
+	{
 		"title": "the Coffee Grounds",
 		"url": "https://thecoffeegrounds.rhysdentportfolio.ca/",
 		"src": "thecoffeegrounds.jpg",
