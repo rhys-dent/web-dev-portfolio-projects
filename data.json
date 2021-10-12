@@ -7,6 +7,13 @@
 		"technologies": ["Node.js", "RDS (Amazon Web Services"]
 	},
 	{
+		"title": "Connecting to MySQL on AWS RDS using Node.js",
+		"url": "https://www.youtube.com/watch?v=6Nt-Jl3CzxE",
+		"src": "nodejs-rds-connection-tut.jpg",
+		"description": "Video tutorial demonstrating how to create a MySQL database hosted on Amazon RDS and connect to it using a Node.js and Express.js server ",
+		"technologies": ["Node.js", "RDS (Amazon Web Services"]
+	},
+	{
 		"title": "Promethus Property Management",
 		"url": "http://prometheuspm.com/",
 		"src": "prometheus-property-management.jpg",
