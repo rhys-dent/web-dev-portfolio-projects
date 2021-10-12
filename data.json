@@ -1,11 +1,5 @@
 [
-	{
-		"title": "Custom Kana Quiz (Work in progress)",
-		"url": "https://kana-quiz.herokuapp.com/",
-		"src": "custom-kana-quiz.png",
-		"description": "A web app for helping users memorize both japanese alphabets. The user creates an account, then creates quizzes with the specific characters they need the most practice with",
-		"technologies": ["Node.js", "React.js", "Express.js"],
-	},
+	
 	{
 		"title": "Connecting to MySQL on AWS RDS using Node.js",
 		"url": "https://www.youtube.com/watch?v=6Nt-Jl3CzxE",
