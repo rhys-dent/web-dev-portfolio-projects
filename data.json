@@ -1,10 +1,10 @@
 [
 	{
 		"title": "Connecting to MySQL on AWS RDS using Node.js",
-		"url": "https://www.youtube.com/watch?v=6Nt-Jl3CzxE",
+		"url": "https://kana-quiz.herokuapp.com/login",
 		"src": "nodejs-rds-connection-tut.jpg",
-		"description": "Video tutorial demonstrating how to create a MySQL database hosted on Amazon RDS and connect to it using a Node.js and Express.js server ",
-		"technologies": ["Node.js", "RDS (Amazon Web Services"]
+		"description": "A react web app intended to help users memorize both japanese alphabets. Users creates an account, then creates custom quizzes with the characters they feel the need to the most practice with.",
+		"technologies": ["Node.js", "React.js", "Express.js"]
 	},
 	{
 		"title": "Connecting to MySQL on AWS RDS using Node.js",
