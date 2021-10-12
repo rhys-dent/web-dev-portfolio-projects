@@ -5,7 +5,7 @@
 		"src": "custom-kana-quiz.png",
 		"description": "A web app for helping users memorize both japanese alphabets. The user creates an account, then creates quizzes with the specific characters they need the most practice with",
 		"technologies": ["Node.js", "React.js", "Express.js"],
-		code: "https://github.com/rhys-dent/custom-kana-quiz"
+		"code": "https://github.com/rhys-dent/custom-kana-quiz"
 	},
 	{
 		"title": "Connecting to MySQL on AWS RDS using Node.js",
